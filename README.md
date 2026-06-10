@@ -143,7 +143,7 @@ Apri `.env` e inserisci le tue credenziali MySQL:
 DB_HOST=localhost
 DB_PORT=3306
 DB_USER=root
-DB_PASSWORD=la_tua_password_mysql
+DB_PASSWORD=password_mysql
 DB_NAME=orizon
 PORT=3000
 ```
